@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "5f0f",
+      "text": "Tidur",
+      "completed": true
+    },
+    {
+      "id": "ad80",
+      "text": "Makan",
+      "completed": true
+    },
+    {
+      "id": "0cc2",
+      "text": "Leran React JS",
+      "completed": false
+    }
+  ]
+}
